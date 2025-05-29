@@ -1,4 +1,5 @@
 # A GAN-Based Approach to Solar Radiation Prediction
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15541229.svg)](https://doi.org/10.5281/zenodo.15541229)
 
 This repository contains the code, datasets, and documentation for the study titled "A GAN-based approach to solar radiation prediction: data augmentation and model optimization for Saudi Arabia." The framework employs Generative Adversarial Networks (GANs) to generate synthetic solar radiation data, enhancing the predictive accuracy of machine learning and deep learning models.
 
